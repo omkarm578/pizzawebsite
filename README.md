@@ -1,4 +1,4 @@
-🍕 Pizza Website
+🍕 Pizzario, 
 A visually delicious and fully responsive Pizza Ordering Website built using HTML, CSS, and JavaScript. This project showcases an engaging UI with smooth scrolling, attractive animations, and an intuitive layout to give users a premium food-ordering experience.
 
 🚀 Features
